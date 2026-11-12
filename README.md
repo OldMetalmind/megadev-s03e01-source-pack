@@ -24,9 +24,13 @@ Public scaffolding repository for gathering and reviewing the five Challenge sou
 
 The repository is for source evidence and review preparation. It is not the final requirements submission and does not contain the `UPLOAD_TOKEN`.
 
-## Upload endpoint
+## Delivery ticket
 
-The deployed Worker endpoint is documented in the parent project’s `UPLOAD.md`. The upload token must be transferred through a secure channel and must not be stored here.
+Use the public project repository's Source delivery issue form:
+
+https://github.com/OldMetalmind/S03e01-night-status/issues/new?template=source-delivery.yml
+
+Cloudflare is retired from the active flow. Do not store credentials, tokens, private signed URLs, or original source files in this repository.
 
 ## Local checks
 
