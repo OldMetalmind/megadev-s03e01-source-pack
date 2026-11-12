@@ -1,6 +1,6 @@
 # S03E01 source collection
 
-Private working repository for gathering and reviewing the five Challenge sources for MEGA.dev S03E01, **status for the night**.
+Public scaffolding repository for gathering and reviewing the five Challenge sources for MEGA.dev S03E01, **status for the night**. Do not commit source originals or private evidence unless explicitly approved.
 
 ## Source order
 
