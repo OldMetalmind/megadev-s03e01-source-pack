@@ -1,0 +1,22 @@
+# Source originals and derivatives are intentionally kept out of Git by default.
+sources/**
+review/**
+
+# Allow directory placeholders and the manifest template.
+!sources/**/
+!review/**/
+!.gitkeep
+!manifest.csv
+
+# Credentials and local tooling
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*token*
+*secret*
+.cookies/
+.playwright-mcp/
+.DS_Store

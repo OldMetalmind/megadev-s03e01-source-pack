@@ -1,0 +1,6 @@
+source_id,source_type,original_filename,relative_path,sha256,size_bytes,mime_type,arrived_at,delivery_method,processing_status,notes
+SRC-01,Memo,,,,,,,Awaiting delivery,
+SRC-02,Screenshot,,,,,,,Awaiting delivery,
+SRC-03,Recording,,,,,,,Awaiting delivery,
+SRC-04,PDF,,,,,,,Awaiting delivery,
+SRC-05,Whiteboard photo,,,,,,,Awaiting delivery,
